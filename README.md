@@ -1,9 +1,9 @@
 # AI Interview Master 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/AI-Interview-Master?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/AI-Interview-Master?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/AI-Interview-Master)
-![License](https://img.shields.io/github/license/yourusername/AI-Interview-Master)
+![GitHub Repo stars](https://img.shields.io/github/stars/MosaSivaMani/ai-interview-master?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MosaSivaMani/ai-interview-master?style=social)
+![GitHub issues](https://img.shields.io/github/issues/MosaSivaMani/ai-interview-master)
+![License](https://img.shields.io/github/license/MosaSivaMani/ai-interview-master)
 
 **AI Interview Master** is a smart application that helps job seekers prepare for technical and HR interviews using **AI-powered mock interviews, instant feedback, and progress tracking**. The app is **hosted on Streamlit**, so you can run it instantly in your browser without setup.
 
@@ -67,9 +67,12 @@ streamlit run app.py
 
 ## Screenshots 🖼
 
-![Login Page](screenshots/login.png)
-![Interview Interface](screenshots/interview.png)
-![Feedback Dashboard](screenshots/dashboard.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c7d8579-e4a5-4fd9-b1cf-9e4ba55b5c2b" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3bc7b0d0-3e1d-42d1-b967-eb9ca2b84ed0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21a39eed-4e9b-4b82-94d9-10553d0f7cee" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/53f841bd-3ab8-4a53-8308-c3b36d6a9be2" />
+
+
 
 ---
 
@@ -88,8 +91,3 @@ streamlit run app.py
 MIT License. See `LICENSE` for details.
 
 ---
-
-## Contact 📬
-
-* **Email**: [your.email@example.com](mailto:your.email@example.com)
-* **GitHub**: [https://github.com/yourusername](https://github.com/yourusername)
