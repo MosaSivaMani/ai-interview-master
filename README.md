@@ -12,7 +12,8 @@
 ## Live Demo 🌐
 
 You can access the application here:
-[**AI Interview Master on Streamlit**](https://your-streamlit-app-link.streamlit.app)
+[**AI Interview Master on Streamlit**](
+https://your-streamlit-app-link.streamlit.app](https://ai-interview-master.streamlit.app/))
 
 ---
 
