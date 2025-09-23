@@ -1,9 +1,9 @@
 # AI Interview Master 🚀
 
-![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/AI-Interview-Master?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/AI-Interview-Master?style=social)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/AI-Interview-Master)
-![License](https://img.shields.io/github/license/yourusername/AI-Interview-Master)
+![GitHub Repo stars](https://img.shields.io/github/stars/MosaSivaMani/AI-Interview-Master?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MosaSivaMani/AI-Interview-Master?style=social)
+![GitHub issues](https://img.shields.io/github/issues/MosaSivaMani/AI-Interview-Master)
+![License](https://img.shields.io/github/license/MosaSivaMani/AI-Interview-Master)
 
 **AI Interview Master** is a smart application that helps job seekers prepare for technical and HR interviews using **AI-powered mock interviews, instant feedback, and progress tracking**. The app is **hosted on Streamlit**, so you can run it instantly in your browser without setup.
 
@@ -13,7 +13,7 @@
 
 You can access the application here:
 [**AI Interview Master on Streamlit**](
-https://your-streamlit-app-link.streamlit.app](https://ai-interview-master.streamlit.app/))
+https://your-streamlit-app-link.streamlit.app](https://ai-interview-master.streamlit.app/)
 
 ---
 
@@ -89,4 +89,5 @@ streamlit run app.py
 MIT License. See `LICENSE` for details.
 
 ---
+
 
