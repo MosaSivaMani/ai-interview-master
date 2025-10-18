@@ -27,7 +27,7 @@ You can access the application here:
 
 ---
 
-## Technologies 🛠
+## Technologies 🛠 
 
 * **Backend & AI**: Python, OpenAI GPT APIs, NLP models
 * **Frontend**: Streamlit
@@ -91,3 +91,4 @@ streamlit run app.py
 MIT License. See `LICENSE` for details.
 
 ---
+
